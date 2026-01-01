@@ -8,7 +8,6 @@
 - 🕹️ Building **OVERBOARD** a multiplayer ship-battle game (Unity + Photon)
 - 🧠 Interested in **systems, databases, game networking, and full-stack**
 - 💼 Former **Northern Trust Intern** and Incoming **Tech Analyst at Northern trust**
-- personal website: https://muharabi.github.io/Website-Project/
 
 ---
 
@@ -66,5 +65,5 @@ Vector-search + LLM QA pipeline
 ---
 
 ## 📫 Contact
-- 💼 LinkedIn: https://linkedin.com/in/yourname
+- 💼 LinkedIn: https://www.linkedin.com/in/muharabi10/
 - 🌐 Portfolio: https://muharabi.github.io/Website-Project/
