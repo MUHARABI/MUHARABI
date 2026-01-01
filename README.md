@@ -71,7 +71,17 @@ Vector-search + LLM QA pipeline
 🔗 Repo: https://github.com/UIC-CS480-Fall2025/ap-database
 
 ---
+## 📊 GitHub Activity
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MUHARABI&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MUHARABI&theme=tokyonight&hide_border=true" />
+</p>
+
+---
 ## 📫 Contact
 - 💼 LinkedIn: https://www.linkedin.com/in/muharabi10/
 - 🌐 Portfolio: https://muharabi.github.io/Website-Project/
