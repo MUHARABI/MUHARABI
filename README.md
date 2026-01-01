@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Muhammed Arabi 👋</h1>
+<h1 align="center">Hi, I'm Muhammed Arabi </h1>
 <h3 align="center">Computer Science Student | Software & Game Developer</h3>
 
 ---
