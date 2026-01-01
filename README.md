@@ -7,16 +7,24 @@
 - 🎓 CS student at **UIC**
 - 🕹️ Building **OVERBOARD** a multiplayer ship-battle game (Unity + Photon)
 - 🧠 Interested in **systems, databases, game networking, and full-stack**
-- 💼 Former **Northern Trust Intern** and Incoming **Tech Analyst at Northern trust**
+- 💼 Former **Northern Trust Intern** | Incoming **Technology Analyst** at **Northern Trust**
 
 ---
 
 ## 🛠️ Tech Stack
 **Languages:**  
-C#, Python, Java, SQL, JavaScript, TypeScript, C/C++, F#, JavaScript, CSS, HTML
+C#, Python, Java, SQL, JavaScript, TypeScript, C/C++, F#, CSS, HTML
 
 **Frameworks & Tools:**  
 Unity, Photon PUN, React, Vite, Tailwind, PostgreSQL, FAISS, Git, Docker, Electron, Node
+
+<p>
+  <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Photon-004480?style=flat"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+</p>
 
 ---
 
