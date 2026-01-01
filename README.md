@@ -43,14 +43,6 @@ Vector-search + LLM QA pipeline
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muharabi&show_icons=true&theme=tokyonight" />
-</p>
-
-
----
-
 ## 📫 Contact
 - 💼 LinkedIn: https://linkedin.com/in/yourname
 - 🌐 Portfolio: https://muharabi.github.io/Website-Project/
