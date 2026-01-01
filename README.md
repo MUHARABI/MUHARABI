@@ -8,6 +8,7 @@
 - 🕹️ Building **OVERBOARD** a multiplayer ship-battle game (Unity + Photon)
 - 🧠 Interested in **systems, databases, game networking, and full-stack**
 - 💼 Former **Northern Trust Intern** and Incoming **Tech Analyst at Northern trust**
+- personal website: https://muharabi.github.io/Website-Project/
 
 ---
 
@@ -30,6 +31,27 @@ Multiplayer naval combat game with real-time networking
 
 🔗 Repo: https://github.com/MUHARABI/overboard-site  
 🌐 Website: https://muharabi.github.io/overboard-site/
+
+---
+### 🟧 Obstacle Course App / Website  
+**Jul 2024 – Aug 2024**
+
+Infinite obstacle-course game where players dodge orange cubic obstacles while collecting rings that grant **10 seconds of immunity**.  
+Designed to be **cross-platform**, with a downloadable app and a web version accessible on all devices.
+
+**✨ Features**
+- Infinite, progressively challenging gameplay  
+- Power-up system with temporary immunity  
+- Cross-platform desktop app (Linux, macOS, Windows)  
+- Web version playable on all platforms  
+
+**🛠️ Tech Stack**
+- JavaScript
+- HTML
+- GitHub
+
+🔗 **Repository:** https://github.com/MUHARABI/Obstacle-Roll  
+🌐 **Website:** https://muharabi.github.io/Obstacle-Roll/
 
 ---
 
