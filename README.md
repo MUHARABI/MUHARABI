@@ -72,6 +72,6 @@ Vector-search + LLM QA pipeline
 
 ---
 
-## 📫 Contact
-- 💼 LinkedIn: https://www.linkedin.com/in/muharabi10/
-- 🌐 Portfolio: https://muharabi.github.io/Website-Project/
+## Contact
+- LinkedIn: https://www.linkedin.com/in/muharabi10/
+- Portfolio: https://muharabi.github.io/Website-Project/
