@@ -5,7 +5,7 @@
 
 ## About Me
 -  CS student at **UIC**
--  Building **OVERBOARD** a multiplayer ship-battle game (Unity + Photon)
+-  Building **OVERBOARD** a multiplayer ship-battle game (Unity and Photon)
 -  Interested in **systems, databases, game networking, and full-stack**
 -  Former **Northern Trust Intern** | Incoming **Technology Analyst** at **Northern Trust**
 
