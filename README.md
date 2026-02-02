@@ -32,12 +32,12 @@ Unity, Photon PUN, React, Vite, Tailwind, PostgreSQL, FAISS, Git, Docker, Electr
 
 ### OVERBOARD
 Multiplayer naval combat game with real-time networking  
-- Unity + Photon PUN
+- Unity and Photon PUN
 - Windows & macOS builds
 - Custom health, camera, and spawn systems  
 
-🔗 Repo: https://github.com/MUHARABI/overboard-site  
-🌐 Website: https://muharabi.github.io/overboard-site/
+Repo: https://github.com/MUHARABI/overboard-site  
+Website: https://muharabi.github.io/overboard-site/
 
 ---
 ### Obstacle Course App / Website  
@@ -57,18 +57,18 @@ Designed to be **cross-platform**, with a downloadable app and a web version acc
 - HTML
 - GitHub
 
-🔗 **Repository:** https://github.com/MUHARABI/Obstacle-Roll  
-🌐 **Website:** https://muharabi.github.io/Obstacle-Roll/
+**Repository:** https://github.com/MUHARABI/Obstacle-Roll  
+**Website:** https://muharabi.github.io/Obstacle-Roll/
 
 ---
 
 ### AP-Database / World Cup Q&A System / RAG System
-Vector-search + LLM QA pipeline  
-- PostgreSQL + FAISS
+Vector-search and LLM QA pipeline  
+- PostgreSQL and FAISS
 - SentenceTransformers
-- Retrieval-Augmented Generation
+- Retrieval Augmented Generation
 
-🔗 Repo: https://github.com/UIC-CS480-Fall2025/ap-database
+Repo: https://github.com/UIC-CS480-Fall2025/ap-database
 
 ---
 
