@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Muhammed Arabi </h1>
-<h3 align="center">Computer Science Major | Northern Trust Tech Analyst | Software & Game Developer</h3>
+<h3 align="center">BS In Computer Science | Northern Trust Tech Analyst | Software & Game Developer</h3>
 
 ---
 
